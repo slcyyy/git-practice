@@ -4,3 +4,4 @@
 这里我测试一下我有多个commit时 commit --amend是针对哪个
 1
 2
+3
